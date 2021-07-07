@@ -1,0 +1,27 @@
+/*-- Input File --*/
+.input-file {
+  padding: 0;
+  height: 60px;
+}
+
+/*-- User Settings--*/
+.my-avatar {
+  color: grey !important;
+  transition: all 0.3s ease-in-out !important;
+}
+
+.my-avatar:hover {
+  color: orangered !important;
+  transition: all 0.3s ease-in-out !important;
+}
+
+/*-- Side Menu User --*/
+.my-a {
+  color: white !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+.my-a:hover {
+  color: cornflowerblue !important;
+  transition: all 0.2s ease-in-out;
+}

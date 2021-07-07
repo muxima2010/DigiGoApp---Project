@@ -1,0 +1,26 @@
+/*--Brand Logo--*/
+.brand-name {
+  color: black;
+  font-size: 25px;
+}
+
+/*-- HEADER --*/
+.header-padding-top {
+  padding-top: 70px !important;
+}
+
+/*--LINKS UNDER SUBMIT BUTTON--*/
+.links {
+  transition: all 0.3s ease-in-out;
+}
+
+.links:hover {
+  color: #0091ee !important;
+  font-weight: 900;
+  transition: all 0.3s ease-in-out;
+}
+
+/*--Footer--*/
+.left {
+  text-align: left;
+}
